@@ -4,7 +4,6 @@ Explore the ninja world through detailed profiles of your favorite Naruto charac
 
 ## 🌟 Table of Contents
 - [Features](#-features)
-- [Live Demo](#-live-demo)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Roadmap](#-roadmap)
