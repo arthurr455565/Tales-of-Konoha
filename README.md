@@ -33,7 +33,7 @@ Explore the ninja world through detailed profiles of your favorite Naruto charac
 
 ## 💻 Tech Stack
 **Frontend**  
-- React 18 + TypeScript
+- React, JavaScript
 - React Router v6
 - Framer Motion (Animations)
 - Tailwind CSS + CSS Modules
